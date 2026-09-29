@@ -1,0 +1,61 @@
+Order_ID,Order_Date,Customer_Name,City,Product,Category,Quantity,Unit_Price,Discount,Payment_Mode,Status
+ORD1001,2025-01-10,Priya Patel,Chennai,Air Fryer,Appliances,1,5499,20,Cash,Completed
+ORD1002,2025-01-17,Rohan Mehta,Jaipur,Denim Jacket,Clothing,4,2799,5,UPI,Completed
+ORD1003,2025-01-23,Ananya Reddy,Hyderabad,Denim Jacket,Clothing,5,2799,20,Bank Transfer,Cancelled
+ORD1004,2025-02-10,Divya Joshi,Kolkata,Study Desk,Furniture,1,8999,10,Bank Transfer,Cancelled
+ORD1005,2025-02-14,Sneha Iyer,Chennai,Power Bank,Electronics,4,1299,5,Cash,Completed
+ORD1006,2025-02-16,Ritu Agarwal,Chennai,Denim Jacket,Clothing,5,2799,20,UPI,Completed
+ORD1007,2025-02-24,Neha Gupta,Delhi,Bookshelf,Furniture,1,4299,0,Card,Completed
+ORD1008,2025-03-05,Arjun Nair,Ahmedabad,Desk Organizer,Stationery,2,599,5,UPI,Pending
+ORD1009,2025-03-12,Deepak Chopra,Ahmedabad,Mixer Grinder,Appliances,5,3299,5,Bank Transfer,Pending
+ORD1010,2025-03-13,Sneha Iyer,Delhi,Office Chair,Furniture,1,6499,15,Card,Completed
+ORD1011,2025-03-13,Priya Patel,Delhi,Study Desk,Furniture,2,8999,0,Bank Transfer,Pending
+ORD1012,2025-03-20,Neha Gupta,Chennai,Smartphone,Electronics,1,18999,5,Bank Transfer,Completed
+ORD1013,2025-03-20,Arjun Nair,Ahmedabad,Running Shoes,Clothing,2,2999,5,Cash,Completed
+ORD1014,2025-04-09,Priya Patel,Jaipur,Microwave Oven,Appliances,1,9999,0,Cash,Cancelled
+ORD1015,2025-04-12,Ananya Reddy,Kolkata,Power Bank,Electronics,2,1299,15,Bank Transfer,Completed
+ORD1016,2025-04-19,Priya Patel,Bengaluru,Mixer Grinder,Appliances,4,3299,15,Cash,Cancelled
+ORD1017,2025-04-22,Sanjay Rao,Hyderabad,Smartphone,Electronics,2,18999,15,Bank Transfer,Completed
+ORD1018,2025-04-23,Karan Malhotra,Mumbai,Denim Jacket,Clothing,3,2799,20,Cash,Pending
+ORD1019,2025-04-28,Priya Patel,Lucknow,Mixer Grinder,Appliances,1,3299,15,UPI,Completed
+ORD1020,2025-05-06,Rohan Mehta,Bengaluru,Bookshelf,Furniture,5,4299,0,Cash,Completed
+ORD1021,2025-05-21,Amit Kulkarni,Delhi,Smartphone,Electronics,1,18999,20,UPI,Completed
+ORD1022,2025-05-23,Meera Pillai,Delhi,Desk Organizer,Stationery,1,599,15,Card,Cancelled
+ORD1023,2025-05-23,Rahul Verma,Chennai,Gel Pen Set,Stationery,2,199,10,Bank Transfer,Completed
+ORD1024,2025-05-31,Sanjay Rao,Pune,Mixer Grinder,Appliances,3,3299,0,Cash,Completed
+ORD1025,2025-06-07,Sneha Iyer,Delhi,Smartwatch,Electronics,5,4999,20,UPI,Completed
+ORD1026,2025-06-11,Pooja Desai,Delhi,Cotton T-Shirt,Clothing,2,699,5,Card,Completed
+ORD1027,2025-06-22,Ritu Agarwal,Hyderabad,Office Chair,Furniture,2,6499,20,Cash,Completed
+ORD1028,2025-06-26,Divya Joshi,Delhi,Smartwatch,Electronics,5,4999,5,Card,Completed
+ORD1029,2025-07-09,Ritu Agarwal,Bengaluru,Mixer Grinder,Appliances,1,3299,10,Card,Completed
+ORD1030,2025-07-14,Karan Malhotra,Hyderabad,Smartphone,Electronics,2,18999,20,Bank Transfer,Completed
+ORD1031,2025-07-14,Rohan Mehta,Kolkata,Office Chair,Furniture,1,6499,10,Cash,Completed
+ORD1032,2025-07-14,Arjun Nair,Bengaluru,Study Desk,Furniture,1,8999,15,Bank Transfer,Completed
+ORD1033,2025-07-17,Rohan Mehta,Bengaluru,Running Shoes,Clothing,1,2999,20,Cash,Pending
+ORD1034,2025-07-24,Ritu Agarwal,Bengaluru,Desk Organizer,Stationery,5,599,15,UPI,Completed
+ORD1035,2025-07-25,Priya Patel,Pune,Smartwatch,Electronics,3,4999,5,UPI,Completed
+ORD1036,2025-08-05,Ritu Agarwal,Kolkata,Bookshelf,Furniture,3,4299,20,UPI,Cancelled
+ORD1037,2025-08-21,Ananya Reddy,Bengaluru,Notebook Pack,Stationery,2,349,15,Cash,Completed
+ORD1038,2025-08-23,Kavya Menon,Chennai,Desk Organizer,Stationery,3,599,10,UPI,Pending
+ORD1039,2025-08-28,Amit Kulkarni,Mumbai,Desk Organizer,Stationery,1,599,15,UPI,Completed
+ORD1040,2025-09-13,Pooja Desai,Hyderabad,Bookshelf,Furniture,4,4299,5,UPI,Completed
+ORD1041,2025-09-14,Amit Kulkarni,Pune,Smartwatch,Electronics,2,4999,10,Cash,Cancelled
+ORD1042,2025-09-17,Pooja Desai,Jaipur,Microwave Oven,Appliances,2,9999,15,Card,Cancelled
+ORD1043,2025-10-04,Arjun Nair,Bengaluru,Mixer Grinder,Appliances,1,3299,20,Card,Completed
+ORD1044,2025-10-10,Kavya Menon,Pune,Notebook Pack,Stationery,5,349,10,Bank Transfer,Completed
+ORD1045,2025-10-11,Sneha Iyer,Kolkata,Denim Jacket,Clothing,5,2799,20,UPI,Completed
+ORD1046,2025-10-15,Aarav Sharma,Jaipur,Bookshelf,Furniture,4,4299,20,UPI,Completed
+ORD1047,2025-10-27,Rahul Verma,Lucknow,Denim Jacket,Clothing,1,2799,10,Cash,Pending
+ORD1048,2025-11-03,Manish Tiwari,Hyderabad,Running Shoes,Clothing,3,2999,15,Card,Completed
+ORD1049,2025-11-05,Ritu Agarwal,Bengaluru,Bookshelf,Furniture,3,4299,5,Bank Transfer,Completed
+ORD1050,2025-11-13,Ananya Reddy,Lucknow,Microwave Oven,Appliances,2,9999,20,Card,Completed
+ORD1051,2025-11-22,Divya Joshi,Hyderabad,Air Fryer,Appliances,1,5499,5,Bank Transfer,Pending
+ORD1052,2025-11-22,Rahul Verma,Ahmedabad,Power Bank,Electronics,5,1299,15,Bank Transfer,Completed
+ORD1053,2025-11-25,Isha Kapoor,Bengaluru,Denim Jacket,Clothing,5,2799,0,Card,Completed
+ORD1054,2025-12-05,Rohan Mehta,Chennai,Smartphone,Electronics,2,18999,10,UPI,Pending
+ORD1055,2025-12-10,Aarav Sharma,Mumbai,Mixer Grinder,Appliances,2,3299,5,Bank Transfer,Completed
+ORD1056,2025-12-16,Sanjay Rao,Kolkata,Microwave Oven,Appliances,1,9999,20,UPI,Pending
+ORD1057,2025-12-16,Isha Kapoor,Kolkata,Smartphone,Electronics,2,18999,5,UPI,Completed
+ORD1058,2025-12-17,Sneha Iyer,Kolkata,Running Shoes,Clothing,1,2999,5,UPI,Pending
+ORD1059,2025-12-19,Priya Patel,Jaipur,Microwave Oven,Appliances,2,9999,5,Cash,Completed
+ORD1060,2025-12-24,Manish Tiwari,Jaipur,Bluetooth Headphones,Electronics,4,2499,20,Card,Cancelled
